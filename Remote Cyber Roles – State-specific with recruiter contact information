@@ -1,0 +1,52 @@
+## Advanced Google Dorking Queries for LinkedIn Remote OSINT Positions with Recruiter Contact Information
+
+### General Remote OSINT Roles
+```
+site:linkedin.com ("OSINT" OR "Open Source Intelligence" OR "Open source analyst") AND ("we're hiring" OR "join our remote team" OR "remote position") AND ("email" OR "phone" OR "contact me" OR "@gmail.com") AND ("remote" OR "work from home" OR "WFH")
+```
+
+### Remote OSINT Analyst Positions
+```
+site:linkedin.com ("OSINT analyst" OR "Open Source Analyst") AND ("remote hiring" OR "remote positions available") AND ("email address" OR "call me" OR "reach me at") AND ("remote" OR "fully remote" OR "work remotely")
+```
+
+### Remote OSINT Investigator Roles
+```
+site:linkedin.com ("OSINT investigator" OR "open source investigator") AND ("actively recruiting remotely" OR "join our remote team") AND ("email" OR "phone number" OR "contact info") AND ("remote" OR "telecommute")
+```
+
+### Remote Cyber Intelligence and OSINT
+```
+site:linkedin.com ("cyber intelligence analyst" OR "OSINT research") AND ("remote hiring" OR "remote opportunities") AND ("email me at" OR "phone" OR "contact me directly") AND ("remote" OR "virtual role")
+```
+
+### Remote OSINT Research Positions
+```
+site:linkedin.com ("OSINT researcher" OR "open source research") AND ("now hiring remotely" OR "actively recruiting remotely") AND ("email address" OR "call/text" OR "reach me") AND ("remote" OR "distributed team")
+```
+
+### Remote Government OSINT Jobs
+```
+site:linkedin.com ("OSINT" OR "intelligence analyst") AND ("government remote positions" OR "federal remote hiring") AND ("email" OR "@gov" OR "phone" OR "direct contact") AND ("remote" OR "telework")
+```
+
+### Remote Entry-Level OSINT Positions
+```
+site:linkedin.com ("entry-level OSINT" OR "junior analyst OSINT") AND ("apply now remotely" OR "remote openings") AND ("email" OR "phone number" OR "contact me") AND ("remote" OR "WFH" OR "work from anywhere")
+```
+
+### Freelance OSINT Opportunities
+```
+site:linkedin.com ("freelance OSINT analyst" OR "contract OSINT analyst") AND ("looking for contractors" OR "hiring freelancers") AND ("email" OR "contact me" OR "phone") AND ("remote" OR "work remotely")
+```
+
+### Remote OSINT Training & Instructor Positions
+```
+site:linkedin.com ("OSINT instructor" OR "open source intelligence trainer") AND ("remote training positions" OR "join our instructor team") AND ("email" OR "phone" OR "contact directly") AND ("remote" OR "online teaching")
+```
+
+### Remote OSINT Consultancy Roles
+```
+site:linkedin.com ("OSINT consultant" OR "open source intelligence consultant") AND ("consulting remotely" OR "looking for remote consultants") AND ("email" OR "phone" OR "direct contact") AND ("remote" OR "telecommute")
+```
+
