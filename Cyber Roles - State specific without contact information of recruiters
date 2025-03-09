@@ -1,0 +1,42 @@
+## Advanced Google Dorking Queries for LinkedIn Cybersecurity Positions
+
+### General Cybersecurity Roles
+```
+site:linkedin.com ("cybersecurity" OR "cyber security" OR "infosec") AND ("we're hiring" OR "join our team" OR "open position") AND ("California" OR "CA" OR "San Diego")
+```
+
+### SOC Analysts and Security Operations Center
+```
+site:linkedin.com ("SOC analyst" OR "security operations center") AND ("actively recruiting" OR "looking for candidates") AND ("San Diego" OR "California")
+```
+
+### Penetration Testing and Ethical Hacking
+```
+site:linkedin.com ("penetration tester" OR "pen tester" OR "ethical hacker" OR "red team") AND ("hiring now" OR "positions available") AND ("San Diego" OR "California")
+```
+
+### Threat Hunting & Cyber Threat Intelligence
+```
+site:linkedin.com ("threat hunter" OR "threat analyst" OR "cyber threat intelligence") AND ("actively recruiting" OR "open roles") AND ("San Diego" OR "CA")
+```
+
+### Incident Response and Digital Forensics
+```
+site:linkedin.com ("incident response analyst" OR "digital forensics" OR "DFIR") AND ("positions open" OR "actively recruiting") AND ("California" OR "San Diego")
+```
+
+### Government Cybersecurity Positions
+```
+site:linkedin.com ("federal cybersecurity" OR "government cybersecurity" OR "public sector cyber") AND ("openings" OR "we're hiring") AND ("California" OR "CA" OR "San Diego")
+```
+
+### Entry-Level Cybersecurity and Internships
+```
+site:linkedin.com ("entry-level cybersecurity" OR "junior cybersecurity" OR "cyber internship") AND ("now hiring" OR "apply now") AND ("California" OR "San Diego" OR "SoCal")
+```
+
+### SOC Analyst Positions
+```
+site:linkedin.com ("SOC analyst" OR "security operations center") AND ("actively hiring" OR "immediate openings") AND ("California" OR "San Diego")
+```
+
