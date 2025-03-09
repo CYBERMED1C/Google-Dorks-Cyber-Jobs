@@ -1,6 +1,6 @@
 # Google-Dorks-Jobs-LinkedIN 
 ## CYBER | OSINT | PENTESTING
-Advanced Google Dorks (Cybersecurity)
+
 
 ## 🚨 Responsible Usage Notice
 
@@ -12,6 +12,8 @@ These Google Dorking queries are provided exclusively for ethical, educational, 
 ### Remember:
 - Always respect privacy and confidentiality.
 - Do not spam or harass contacts found using these methods.
+
+## Edit these searches as needed to fit your job searching!
 
 Enjoy exploring, stay curious, and most importantly—have fun learning and growing your cybersecurity skills!
 
