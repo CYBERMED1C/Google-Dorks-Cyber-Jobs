@@ -1,0 +1,37 @@
+## Advanced Google Dorking Queries for LinkedIn OSINT Positions with Recruiter Contact Information
+
+### General OSINT Roles with Recruiter Contacts
+```
+site:linkedin.com ("OSINT" OR "Open Source Intelligence" OR "Open source analyst") AND ("we're hiring" OR "join our team" OR "open position") AND ("email" OR "phone" OR "contact me" OR "@gmail.com") AND ("California" OR "San Diego")
+```
+
+### OSINT Analyst Positions
+```
+site:linkedin.com ("OSINT analyst" OR "Open Source Analyst") AND ("hiring" OR "positions available") AND ("San Diego" OR "CA") AND ("email address" OR "call me" OR "reach me at")
+```
+
+### OSINT Investigator Roles
+```
+site:linkedin.com ("OSINT investigator" OR "open source investigator") AND ("actively recruiting" OR "join our team") AND ("email" OR "phone number" OR "contact info") AND ("California" OR "San Diego")
+```
+
+### Cyber Intelligence and OSINT
+```
+site:linkedin.com ("cyber intelligence analyst" OR "OSINT research") AND ("we are hiring" OR "join our team") AND ("San Diego" OR "California") AND ("email me at" OR "phone" OR "contact me directly")
+```
+
+### OSINT Research Positions
+```
+site:linkedin.com ("OSINT researcher" OR "open source research") AND ("now hiring" OR "actively recruiting") AND ("San Diego" OR "California") AND ("email address" OR "call/text" OR "reach me")
+```
+
+### Government OSINT Jobs
+```
+site:linkedin.com ("OSINT" OR "intelligence analyst") AND ("government positions" OR "federal hiring") AND ("California" OR "San Diego") AND ("email" OR "@gov" OR "phone" OR "direct contact")
+```
+
+### Entry-Level OSINT Positions with Contacts
+```
+site:linkedin.com ("entry-level OSINT" OR "junior analyst OSINT") AND ("apply now" OR "immediate openings") AND ("California" OR "San Diego") AND ("email" OR "phone number" OR "contact me")
+```
+
