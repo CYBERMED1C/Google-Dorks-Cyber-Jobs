@@ -1,5 +1,5 @@
 # Google-Dorks-Jobs-LinkedIN 
-## CYBER | OSINT | PENTESTING
+## CYBER | OSINT 
 
 
 ## 🚨 Responsible Usage Notice
