@@ -1,0 +1,42 @@
+## Advanced Google Dorking Queries for LinkedIn OSINT Positions
+
+### General OSINT Roles
+```
+site:linkedin.com ("OSINT" OR "Open Source Intelligence" OR "Intelligence Analyst") AND ("we're hiring" OR "open position" OR "join our team") AND ("California" OR "San Diego" OR "CA" OR "SoCal")
+```
+
+### Intelligence Analyst Positions
+```
+site:linkedin.com ("Intelligence Analyst" OR "Cyber Intelligence Analyst") AND ("hiring now" OR "positions available") AND ("San Diego" OR "California")
+```
+
+### OSINT Investigator Roles
+```
+site:linkedin.com ("OSINT investigator" OR "open source investigator") AND ("actively recruiting" OR "apply now") AND ("California" OR "San Diego")
+```
+
+### OSINT & Threat Intelligence Positions
+```
+site:linkedin.com ("OSINT" OR "Threat Intelligence") AND ("actively recruiting" OR "open roles") AND ("California" OR "San Diego")
+```
+
+### Intelligence Analyst Positions
+```
+site:linkedin.com ("Intelligence analyst" OR "Open source analyst") AND ("join our team" OR "open position") AND ("San Diego" OR "CA")
+```
+
+### OSINT Researcher and Analyst Jobs
+```
+site:linkedin.com ("OSINT researcher" OR "open source research analyst") AND ("we are hiring" OR "positions open") AND ("California" OR "San Diego" OR "Southern California")
+```
+
+### Entry-Level OSINT Positions
+```
+site:linkedin.com ("entry-level OSINT" OR "junior OSINT analyst") AND ("apply now" OR "now hiring") AND ("San Diego" OR "California")
+```
+
+### OSINT roles in Government and Federal Agencies
+```
+site:linkedin.com ("OSINT" OR "intelligence analyst") AND ("government positions" OR "federal hiring") AND ("California" OR "San Diego")
+```
+
