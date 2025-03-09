@@ -1,4 +1,5 @@
-# Google-Dorks-Cyber-Jobs-LinkedIN 
+# Google-Dorks-Jobs-LinkedIN 
+## Cyber | OSINT | PENTESTING
 Advanced Google Dorks (Cybersecurity)
 
 ## 🚨 Responsible Usage Notice
