@@ -1,0 +1,52 @@
+## Advanced Google Dorking Queries for LinkedIn Remote Cybersecurity Positions
+
+### General Remote Cybersecurity Roles
+```
+site:linkedin.com ("cybersecurity" OR "infosec" OR "cyber security analyst") AND ("remote hiring" OR "remote position" OR "work remotely") AND ("remote" OR "WFH" OR "work from home")
+```
+
+### Remote SOC Analyst & Network Security Positions
+```
+site:linkedin.com ("SOC analyst" OR "security operations center analyst") AND ("actively recruiting remotely" OR "remote positions") AND ("remote" OR "telecommute" OR "fully remote")
+```
+
+### Remote Threat Hunting & Cyber Threat Intelligence (CTI)
+```
+site:linkedin.com ("threat hunting" OR "cyber threat intelligence" OR "threat analyst") AND ("remote hiring" OR "remote roles available") AND ("remote" OR "virtual" OR "distributed team")
+```
+
+### Remote Penetration Testing & Ethical Hacking
+```
+site:linkedin.com ("penetration tester" OR "red team" OR "ethical hacker") AND ("remote positions" OR "remote roles open") AND ("remote" OR "work remotely" OR "telework")
+```
+
+### Remote Incident Response & Digital Forensics
+```
+site:linkedin.com ("incident response" OR "digital forensics" OR "DFIR") AND ("actively recruiting remotely" OR "remote jobs available") AND ("remote" OR "virtual" OR "WFH")
+```
+
+### Remote Government & Defense Cybersecurity Roles
+```
+site:linkedin.com ("government cybersecurity" OR "federal cybersecurity" OR "defense cyber") AND ("remote hiring" OR "telework positions") AND ("remote" OR "telecommute" OR "virtual")
+```
+
+### Remote Incident Response Analyst Roles
+```
+site:linkedin.com ("incident response analyst" OR "digital forensics") AND ("remote hiring" OR "urgent remote positions") AND ("remote" OR "work remotely" OR "WFH")
+```
+
+### Remote Entry-Level Cybersecurity & Internships
+```
+site:linkedin.com ("entry-level cybersecurity" OR "junior cyber analyst" OR "cyber internship") AND ("remote roles" OR "apply remotely") AND ("remote" OR "work from anywhere" OR "WFH")
+```
+
+### Remote Cybersecurity Consultancy Roles
+```
+site:linkedin.com ("cybersecurity consultant" OR "infosec consultant") AND ("remote consultancy" OR "consulting remotely") AND ("remote" OR "virtual" OR "telecommute")
+```
+
+### Remote Cybersecurity Training & Instructor Positions
+```
+site:linkedin.com ("cybersecurity instructor" OR "infosec trainer") AND ("remote training roles" OR "instructor remote positions") AND ("remote" OR "online teaching" OR "virtual instructor")
+```
+
