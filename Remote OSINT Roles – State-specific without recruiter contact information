@@ -1,0 +1,52 @@
+## Advanced Google Dorking Queries for LinkedIn Remote OSINT Positions
+
+### General Remote OSINT Roles
+```
+site:linkedin.com ("OSINT" OR "Open Source Intelligence" OR "Open source analyst") AND ("we're hiring" OR "join our remote team" OR "remote position") AND ("remote" OR "work from home" OR "WFH")
+```
+
+### Remote OSINT Analyst Positions
+```
+site:linkedin.com ("OSINT analyst" OR "Open Source Analyst") AND ("remote hiring" OR "remote positions available") AND ("remote" OR "fully remote" OR "work remotely")
+```
+
+### Remote OSINT Investigator Roles
+```
+site:linkedin.com ("OSINT investigator" OR "open source investigator") AND ("actively recruiting remotely" OR "join our remote team") AND ("remote" OR "telecommute")
+```
+
+### Remote Cyber Intelligence and OSINT
+```
+site:linkedin.com ("cyber intelligence analyst" OR "OSINT research") AND ("remote hiring" OR "remote opportunities") AND ("remote" OR "virtual")
+```
+
+### Remote OSINT Research Positions
+```
+site:linkedin.com ("OSINT researcher" OR "open source research") AND ("now hiring remotely" OR "actively recruiting remotely") AND ("remote" OR "distributed team")
+```
+
+### Remote Government OSINT Jobs
+```
+site:linkedin.com ("OSINT" OR "intelligence analyst") AND ("government remote positions" OR "federal remote hiring") AND ("remote" OR "telework")
+```
+
+### Entry-Level OSINT Positions (Remote)
+```
+site:linkedin.com ("entry-level OSINT" OR "junior analyst OSINT") AND ("apply now remotely" OR "remote openings") AND ("remote" OR "WFH" OR "work from anywhere")
+```
+
+### Freelance OSINT Opportunities
+```
+site:linkedin.com ("freelance OSINT analyst" OR "open source analyst freelance") AND ("remote freelance" OR "freelance opportunities") AND ("remote" OR "telecommute")
+```
+
+### Remote OSINT Training & Instructor Positions
+```
+site:linkedin.com ("OSINT instructor" OR "open source intelligence trainer") AND ("remote training positions" OR "join our instructor team") AND ("remote" OR "online teaching")
+```
+
+### Remote OSINT Consultancy Roles
+```
+site:linkedin.com ("OSINT consultant" OR "open source intelligence consultant") AND ("remote consultancy" OR "consulting remotely") AND ("remote" OR "telecommute")
+```
+
