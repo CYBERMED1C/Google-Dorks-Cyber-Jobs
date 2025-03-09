@@ -1,0 +1,44 @@
+🔍 Google Dorking Queries for LinkedIn Cybersecurity Recruiters (San Diego)
+
+## Advanced 🔍 Google Dorking Queries for LinkedIn Cybersecurity Recruiters (San Diego)
+
+### General Cybersecurity Positions
+```
+site:linkedin.com ("cybersecurity" OR "cyber security" OR "infosec") AND ("hiring now" OR "I'm hiring" OR "looking for candidates") AND ("San Diego" OR "Southern California" OR "SoCal") AND ("email" OR "phone" OR "call me" OR "@gmail.com")
+```
+
+### SOC Analyst & Network Security Positions
+```
+site:linkedin.com ("SOC analyst" OR "security operations center analyst") AND ("actively recruiting" OR "join our team") AND ("San Diego" OR "California") AND ("email" OR "phone" OR "contact me")
+```
+
+### Threat Hunting & Cyber Threat Intelligence (CTI)
+```
+site:linkedin.com ("threat hunting" OR "cyber threat intelligence" OR "threat analyst") AND ("we are hiring" OR "looking for candidates") AND ("San Diego" OR "CA") AND ("email address" OR "reach out" OR "phone")
+```
+
+### Penetration Testing & Ethical Hacking
+```
+site:linkedin.com ("penetration tester" OR "red team" OR "ethical hacker") AND ("now hiring" OR "open roles") AND ("San Diego" OR "CA") AND ("email" OR "direct contact" OR "phone number")
+```
+
+### Incident Response & Digital Forensics
+```
+site:linkedin.com ("incident response" OR "digital forensics" OR "DFIR") AND ("positions available" OR "we're hiring") AND ("San Diego" OR "SoCal") AND ("email" OR "phone number" OR "call me at")
+```
+
+### Government & Defense Cybersecurity Roles
+```
+site:linkedin.com ("government cybersecurity" OR "federal cybersecurity" OR "defense cyber") AND ("looking for candidates" OR "actively hiring") AND ("San Diego" OR "California") AND ("email" OR "phone" OR "@gov")
+```
+
+### Incident Response Roles
+```
+site:linkedin.com ("incident response analyst" OR "digital forensics") AND ("hiring immediately" OR "urgent positions") AND ("San Diego" OR "California") AND ("contact me directly" OR "email" OR "phone")
+```
+
+### Entry-Level & Internships
+```
+site:linkedin.com ("entry-level cybersecurity" OR "junior cyber analyst" OR "internship") AND ("apply now" OR "hiring new graduates") AND ("San Diego" OR "Southern California") AND ("email" OR "call me" OR "reach out")
+```
+
